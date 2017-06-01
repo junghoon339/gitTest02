@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>git테스트</h1>
+	<h2>git 수정합니다.</h2>
 </body>
 </html>
